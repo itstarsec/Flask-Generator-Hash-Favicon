@@ -8,7 +8,7 @@ If you are concerned about this project, please contact me via thanhlm120797@gma
 Written using Python3
 
 How to use:
-1. Install requirement: pip3 install -r requirement.txt
+1. Install requirement: pip3 install -r requirements.txt
 2. Run command: python3 app.py
 3. Open your browser and access link: http://127.0.0.1:5000
 4. Find any browser on Internet and view the source code website to get url favicon, example: https://www.hackthebox.eu/images/landingv3/favicon.png
