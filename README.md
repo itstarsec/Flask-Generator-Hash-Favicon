@@ -15,4 +15,6 @@ How to use:
 5. Type the link url favicon and click button "Submit"
 6. Boom! you have been a string for Dork on Shodan.
 
+Live Demo via: https://agile-plains-23887.herokuapp.com/
+
 USE AT YOUR OWN RISK AND WHAT YOU DO WITH THIS IS UP TO YOU NOT ME!
